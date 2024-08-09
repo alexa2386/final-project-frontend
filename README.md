@@ -18,3 +18,8 @@ This project is a frontend for a dog daycare application. It connects to a backe
 
 ## API Integration
 Make sure to replace `API_BASE_URL` in `api.js` with your actual backend URL.
+
+## Presentation
+[Dog Daycare]([url](https://docs.google.com/presentation/d/1V-SNSHtJNhwT6WrXovKrl4HzG1NHSHVsF4Os7yOUB8Q/edit?usp=sharing))
+
+Author: Alexia Hamilton

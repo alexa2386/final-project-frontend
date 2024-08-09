@@ -1,0 +1,31 @@
+.explore-booking {
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .explore-booking h1 {
+    font-size: 2.5rem;
+    color: #333;
+    margin-bottom: 15px;
+  }
+  
+  .explore-booking-text {
+    font-size: 1.2rem;
+    color: #666;
+    margin-bottom: 25px;
+  }
+  
+  .explore-booking-list {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+  /* Ensure BookingForm component has space around it */
+  .explore-booking form {
+    margin-top: 20px;
+  }
